@@ -1,4 +1,4 @@
-# Project 3 [Live link]()
+# Project 3 [Live link](https://live-class-project3.netlify.app)
 
 ## Skills gained from this project
     - Learned to create :root pseudo class
